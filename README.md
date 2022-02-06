@@ -5,8 +5,6 @@
                 width="30px">  I'm Tushar Jain</h1>
 <h3 align="center">A Web Developer and a Problem Solver from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kumarnurav9811&label=Profile%20views&color=0e75b6&style=flat" alt="kumarnurav9811" /> </p>
-
 - 🔭 I’m currently working on **Improving problem solving and web developement skills....**
 
 - 🌱 I’m currently learning **Data Structures and Algorithm, React.js.**

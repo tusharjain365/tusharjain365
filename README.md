@@ -25,7 +25,7 @@
 <a href="https://linkedin.com/in/tushar-jain-3669351b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar-jain-3669351b3" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100054073719611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tushar jain" height="30" width="40" /></a>
 <a href="https://instagram.com/tushar_jain75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tushar_jain75" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/tjain45" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tjain45" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tushar247" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="tushar247" height="30" width="40" /></a>
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
